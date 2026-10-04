@@ -1,0 +1,361 @@
+original_text,label,epsilon,privatized_text,start,end,predicted_label,correct
+The new laptop is fast and works perfectly for my daily tasks,1,1,Th chooses ssl is shorter and uncommon conqu for my tour deeds,8,12,0,False
+The new laptop is fast and works perfectly for my daily tasks,1,5,Established bob romanian is shy and shades magical for my hills buzz,8,12,1,True
+The new laptop is fast and works perfectly for my daily tasks,1,10,Winter big ensured is avior and knew fraudulent for my monthly species,8,12,0,False
+The new laptop is fast and works perfectly for my daily tasks,1,25,Awesome good laptop is quiet and cases indeed for my normal contacts,7,12,1,True
+The new laptop is fast and works perfectly for my daily tasks,1,50,This fresh laptop is straight and dates painfully for my simple struggles,7,12,0,False
+The new laptop is fast and works perfectly for my daily tasks,1,100,My newest notebook is great and makes fairly for my household charges,8,12,1,True
+I really enjoyed the movie because the story was engaging,1,1,Tery ne commissioned the 10 because the qui was adult,6,10,0,False
+I really enjoyed the movie because the story was engaging,1,5,More stret ___ the weight because the outlet was caliber,6,10,1,True
+I really enjoyed the movie because the story was engaging,1,10,Chinese early ublished the party because the wing was indust,6,10,0,False
+I really enjoyed the movie because the story was engaging,1,25,Someone actually recognized the concert because the gun was ing,6,10,1,True
+I really enjoyed the movie because the story was engaging,1,50,And intensely pleased the cinema because the process was gripping,6,10,1,True
+I really enjoyed the movie because the story was engaging,1,100,Everyone was admired the story because the story was thrilling,6,10,1,True
+The restaurant served delicious food and the staff were friendly,1,1,Group attempt orship borders leg and the cov were fast,7,10,1,True
+The restaurant served delicious food and the staff were friendly,1,5,He convinced fires reached difference and the lunch were specialization,7,10,1,True
+The restaurant served delicious food and the staff were friendly,1,10,Static budapest dri shelves bump and the programmed were exaggeration,7,10,0,False
+The restaurant served delicious food and the staff were friendly,1,25,Sikh restaurant featured helpful stock and the attendants were sweet,7,10,1,True
+The restaurant served delicious food and the staff were friendly,1,50,S place served terrific lunch and the staffer were kind,6,10,1,True
+The restaurant served delicious food and the staff were friendly,1,100,This restaurant contained lavish seafood and the workers were pleasant,6,10,1,True
+This phone has an excellent camera and a very clear display,1,1,Glock legislation has an cra tab and a very seen tex,6,11,1,True
+This phone has an excellent camera and a very clear display,1,5,Desc interstitial has an reynolds footing and a very citation clerks,6,11,1,True
+This phone has an excellent camera and a very clear display,1,10,Dot photographer has an sport homemade and a very ipal conc,6,11,1,True
+This phone has an excellent camera and a very clear display,1,25,This phones has an eye video and a very bright text,6,11,1,True
+This phone has an excellent camera and a very clear display,1,50,Apple phone has an imperfect camera and a very clear text,6,11,0,False
+This phone has an excellent camera and a very clear display,1,100,Our smartphone has an invaluable microphone and a very clear display,4,11,1,True
+The book was interesting and kept me entertained until the end,1,1,Tourism puck was enum and laden me kathleen until the molecular,6,11,1,True
+The book was interesting and kept me entertained until the end,1,5,Sling os was giveaway and laughs me ventory until the ihad,6,11,1,True
+The book was interesting and kept me entertained until the end,1,10,Matt sandbox was mcn and clare me ent until the form,6,11,1,True
+The book was interesting and kept me entertained until the end,1,25,That read was also and took me.[until the finish,6,11,1,True
+The book was interesting and kept me entertained until the end,1,50,That work was sexy and confined me accessible until the first,6,11,1,True
+The book was interesting and kept me entertained until the end,1,100,The book was crazy and retained me impressed until the ends,5,11,1,True
+I am very happy with the quality of these headphones,1,1,Zika am very tex with the mac of these ey,4,10,1,True
+I am very happy with the quality of these headphones,1,5,Bey am very mongolia with the features of these batteries,4,10,1,True
+I am very happy with the quality of these headphones,1,10,Ed am very & with the efficient of these smartphones,4,10,1,True
+I am very happy with the quality of these headphones,1,25,Nor am very spoiled with the evaluation of these!,4,10,0,False
+I am very happy with the quality of these headphones,1,50,I am very sorry with the product of these!,3,10,0,False
+I am very happy with the quality of these headphones,1,100,My am very enthusiastic with the security of these headsets,4,10,1,True
+The hotel room was clean comfortable and surprisingly spacious,1,1,Bye aly nearly was maize mons and vehicles moistur,7,9,0,False
+The hotel room was clean comfortable and surprisingly spacious,1,5,119 cycling aghetti was greater reporting and frogs paramount,7,9,0,False
+The hotel room was clean comfortable and surprisingly spacious,1,10,Booklet transition trigger was equ slim and entertaining unequivocally,7,9,1,True
+The hotel room was clean comfortable and surprisingly spacious,1,25,The department passenger was slate equipped and ridiculously fancy,7,9,1,True
+The hotel room was clean comfortable and surprisingly spacious,1,50,A hotel compartment was clean friendly and awkwardly cozy,6,9,0,False
+The hotel room was clean comfortable and surprisingly spacious,1,100,The hotel bedroom was clean comfort and relatively massive,5,9,1,True
+The new software update made the application much easier to use,1,1,Conceivable otent accompanied pick autos the acres pushed> to chery,9,11,1,True
+The new software update made the application much easier to use,1,5,Conserv sanctuary freak% margin the mitch pupil mechanically to street,9,11,0,False
+The new software update made the application much easier to use,1,10,Of gcc guess forge pedd the document foray pay to utilize,9,11,0,False
+The new software update made the application much easier to use,1,25,Each newest software see reduced the user much simple to define,7,11,0,False
+The new software update made the application much easier to use,1,50,A former material update became the library the wider to consume,8,11,1,True
+The new software update made the application much easier to use,1,100,One newly system tweak started the app way slower to display,9,11,0,False
+The customer service team solved my problem quickly,1,1,Paras refuted thus starvation md my gork qu,7,8,0,False
+The customer service team solved my problem quickly,1,5,Eternal sorry raising receipt tacos my ْ}{,7,8,0,False
+The customer service team solved my problem quickly,1,10,Catal targeting within turn typed my timing specifically,7,8,1,True
+The customer service team solved my problem quickly,1,25,Recent user help gang answers my favorite',7,8,1,True
+The customer service team solved my problem quickly,1,50,Our customers friendly help tried my problems urgently,7,8,0,False
+The customer service team solved my problem quickly,1,100,Our customer service squad met my complication.,5,8,1,True
+The concert was fantastic and the performance was impressive,1,1,Everyday wa was ー� and the doj was g,5,9,1,True
+The concert was fantastic and the performance was impressive,1,5,Excellent interaction was vienna and the knockout was ib,5,9,1,True
+The concert was fantastic and the performance was impressive,1,10,"One """" was disturbing and the 227 was immense",5,9,0,False
+The concert was fantastic and the performance was impressive,1,25,College movie was terrific and the band was intriguing,5,9,1,True
+The concert was fantastic and the performance was impressive,1,50,This event was magnificent and the success was exciting,5,9,1,True
+The concert was fantastic and the performance was impressive,1,100,The gig was unbelievable and the presentation was attractive,5,9,1,True
+This coffee tastes wonderful and has a smooth flavour,1,1,Fourth き citizens trail and has a repro downs,6,9,0,False
+This coffee tastes wonderful and has a smooth flavour,1,5,Metrics nis proc games and has a users <[,6,9,1,True
+This coffee tastes wonderful and has a smooth flavour,1,10,Range dip grows benign and has a seems […],6,9,0,False
+This coffee tastes wonderful and has a smooth flavour,1,25,Asian coffee absorbs extraordinary and has a blurred boil,6,9,1,True
+This coffee tastes wonderful and has a smooth flavour,1,50,Morning coffee throws superb and has a smoother flavour,4,9,1,True
+This coffee tastes wonderful and has a smooth flavour,1,100,Most coffee tells great and has a smoothly flavour,4,9,1,True
+The shoes are comfortable and look great with my clothes,1,1,Nesty temperature are fries and buster brother with my indexed,6,10,0,False
+The shoes are comfortable and look great with my clothes,1,5,Robin prefix are spectators and ..... pointing with my dayton,6,10,0,False
+The shoes are comfortable and look great with my clothes,1,10,Forms innocent are often and shar acon with my academy,6,10,1,True
+The shoes are comfortable and look great with my clothes,1,25,This houses are fortable and stop glamorous with my murders,6,10,0,False
+The shoes are comfortable and look great with my clothes,1,50,The heels are uncomfortable and show greatness with my budget,5,10,1,True
+The shoes are comfortable and look great with my clothes,1,100,These boots are fortable and do put with my costumes,6,10,1,True
+I had a pleasant experience shopping at this store,1,1,Ranean had a rella rd mandarin at this scal,5,9,1,True
+I had a pleasant experience shopping at this store,1,5,Ived had a lawn ogged treasury at this recreation,5,9,1,True
+I had a pleasant experience shopping at this store,1,10,Layout had a purchasing theory dexter at this worm,5,9,1,True
+I had a pleasant experience shopping at this store,1,25,Who had a cousin account visiting at this lane,5,9,1,True
+I had a pleasant experience shopping at this store,1,50,We had a pleasantly feel ing at this stores,5,9,1,True
+I had a pleasant experience shopping at this store,1,100,We had a satisfactory appearance reading at this store,4,9,1,True
+The movie had beautiful visuals and a memorable soundtrack,1,1,Renovation headset had chim teaches and a next tub,6,9,0,False
+The movie had beautiful visuals and a memorable soundtrack,1,5,Refund rodriguez had beacon complex and a tv aldehyde,6,9,1,True
+The movie had beautiful visuals and a memorable soundtrack,1,10,Reported dagger had deferred contributes and a redundant triple,6,9,0,False
+The movie had beautiful visuals and a memorable soundtrack,1,25,American ification had shocking paintings and a favourite percussion,6,9,1,True
+The movie had beautiful visuals and a memorable soundtrack,1,50,Another movie had colorful screenshots and a versatile score,6,9,1,True
+The movie had beautiful visuals and a memorable soundtrack,1,100,A movie had good subtitles and a magical music,5,9,1,True
+The delivery arrived early and everything was packed carefully,1,1,Right ask lay integ and offensive was due ball,7,9,0,False
+The delivery arrived early and everything was packed carefully,1,5,Us dominic bucks competitive and 385 was cooks decay,7,9,0,False
+The delivery arrived early and everything was packed carefully,1,10,Inc load reunited properly and stimuli was python overse,7,9,1,True
+The delivery arrived early and everything was packed carefully,1,25,Sweet carry delivery excellent and thing was fit -,7,9,1,True
+The delivery arrived early and everything was packed carefully,1,50,This deliver delivered quietly and everything was stored careful,6,9,1,True
+The delivery arrived early and everything was packed carefully,1,100,"First delivery came, and things was included beautifully",6,9,1,True
+The new tablet is lightweight and convenient to carry,1,1,Flown erit shrugged is ah and ue to denver,6,9,1,True
+The new tablet is lightweight and convenient to carry,1,5,Quarterly ilipp termination is w and radioactive to assum,6,9,0,False
+The new tablet is lightweight and convenient to carry,1,10,Weight wanting ben is asc and healed to favorite,6,9,1,True
+The new tablet is lightweight and convenient to carry,1,25,Apple next tablet is heaviest and inclined to …,6,9,0,False
+The new tablet is lightweight and convenient to carry,1,50,Hot news tablet is waterproof and beneficial to carry,5,9,1,True
+The new tablet is lightweight and convenient to carry,1,100,Your new tablet is inexpensive and handy to own,4,9,1,True
+I found the course useful and learned many interesting things,1,1,Grounds prohibited the cry argentine and fidel unmist flags teen,8,10,0,False
+I found the course useful and learned many interesting things,1,5,Beer adopting the varies possession and instead hang shave olic,8,10,0,False
+I found the course useful and learned many interesting things,1,10,Diagonal discussed the pledge rad and zees very souven struggles,8,10,0,False
+I found the course useful and learned many interesting things,1,25,Adam made the building of and enced few real different,8,10,1,True
+I found the course useful and learned many interesting things,1,50,Student figured the seminar wise and viewed very odd expressions,8,10,0,False
+I found the course useful and learned many interesting things,1,100,He met the seminar unique and obtained all pleasant concepts,8,10,1,True
+The meal was fresh tasty and reasonably priced,1,1,392 neum was utical website and npm youngsters,6,8,1,True
+The meal was fresh tasty and reasonably priced,1,5,Gall ¯¯ was tablets preview and refinery 1895,6,8,0,False
+The meal was fresh tasty and reasonably priced,1,10,Words ה was professionally done and joked spirits,6,8,1,True
+The meal was fresh tasty and reasonably priced,1,25,Last resolution was again fantastic and fundamentally ...,6,8,1,True
+The meal was fresh tasty and reasonably priced,1,50,Any dining was delicious pleasant and roughly sized,6,8,1,True
+The meal was fresh tasty and reasonably priced,1,100,The food was very flavorful and substantially expensive,5,8,1,True
+The camera takes sharp photographs even in low light,1,1,Hall edi bund safely once care in appropriation atever,8,9,0,False
+The camera takes sharp photographs even in low light,1,5,Tele kaplan developments int ittens exits in acre obtaining,8,9,1,True
+The camera takes sharp photographs even in low light,1,10,Feet casting wales iesel stunts sometime in stigma 048,8,9,0,False
+The camera takes sharp photographs even in low light,1,25,Personal card plays ability dreadful still in high dark,8,9,0,False
+The camera takes sharp photographs even in low light,1,50,Mobile camera papers neat depicts despite in little light,7,9,1,True
+The camera takes sharp photographs even in low light,1,100,Mobile camera brings strong images but in bad lighting,7,9,0,False
+The application is simple intuitive and easy to navigate,1,1,Isec--is orius anon and terror to interview,6,9,0,False
+The application is simple intuitive and easy to navigate,1,5,Parallel trick is development grace and nel to gathered,6,9,1,True
+The application is simple intuitive and easy to navigate,1,10,Github ask is require active and ob to useful,6,9,0,False
+The application is simple intuitive and easy to navigate,1,25,Great plugin is simplistic angular and z to govern,6,9,1,True
+The application is simple intuitive and easy to navigate,1,50,This applications is simple aesthetic and even to walk,6,9,1,True
+The application is simple intuitive and easy to navigate,1,100,Our application is simple intuitive and clear to communicate,3,9,1,True
+The headphones sound excellent and block outside noise well,1,1,Research kept olive lde and ™: symbolism sn equal,8,9,1,True
+The headphones sound excellent and block outside noise well,1,5,Magn chickens find rel and 679 fif sword yarn,8,9,1,True
+The headphones sound excellent and block outside noise well,1,10,More punishing call quickly and house shaping gag dramatically,8,9,0,False
+The headphones sound excellent and block outside noise well,1,25,Blade recruits turn wonderfully and filter insider signature slightly,8,9,1,True
+The headphones sound excellent and block outside noise well,1,50,Ear headsets noise vital and frame outside space seamlessly,8,9,1,True
+The headphones sound excellent and block outside noise well,1,100,These products bang inadequate and keep outside sounds </s>,7,9,0,False
+The weather was beautiful and made the walk very enjoyable,1,1,Away wt was sora and vault the draconian very volunte,6,10,0,False
+The weather was beautiful and made the walk very enjoyable,1,5,Suitable ab was hitman and initiated the ippi very loses,6,10,1,True
+The weather was beautiful and made the walk very enjoyable,1,10,Atmosphere clay was despite and proved the inserts very 代,6,10,0,False
+The weather was beautiful and made the walk very enjoyable,1,25,My weather was 1982 and achieved the walk very meaningful,5,10,1,True
+The weather was beautiful and made the walk very enjoyable,1,50,Where surface was varied and made the hike very enjoyed,5,10,1,True
+The weather was beautiful and made the walk very enjoyable,1,100,Our weather was diverse and created the work very delicious,5,10,1,True
+The staff were helpful and answered all my questions,1,1,Irregular stream were redemption and earing all my lay,5,9,1,True
+The staff were helpful and answered all my questions,1,5,Did requisite were production and manic all my tick,5,9,0,False
+The staff were helpful and answered all my questions,1,10,Barnes term were assisting and wonderful all my advanced,5,9,1,True
+The staff were helpful and answered all my questions,1,25,Fp staff were generous and welcomed all my readers,5,9,1,True
+The staff were helpful and answered all my questions,1,50,Support workers were very and delivered all my complaints,5,9,1,True
+The staff were helpful and answered all my questions,1,100,Library employees were provided and covered all my?,5,9,0,False
+This television has excellent picture quality and clear sound,1,1,Timeframe affected has graveyard spies infiltrate and registered 354,7,9,0,False
+This television has excellent picture quality and clear sound,1,5,Cbc pu has is unnecessary 431 and homebrew iru,7,9,0,False
+This television has excellent picture quality and clear sound,1,10,Woods fri has equipped reverted writing and data career,7,9,1,True
+This television has excellent picture quality and clear sound,1,25,Entry tv has presented power fidelity and war description,7,9,1,True
+This television has excellent picture quality and clear sound,1,50,Nbc tv has adequate pic class and crisp audio,7,9,1,True
+This television has excellent picture quality and clear sound,1,100,The television has established photograph performance and clearer sound,6,9,1,True
+The game was exciting and much more enjoyable than expected,1,1,Rique 22 was coalition and bol more suing than gl,6,10,0,False
+The game was exciting and much more enjoyable than expected,1,5,! deborah was codec and 688 more usions than ought,6,10,0,False
+The game was exciting and much more enjoyable than expected,1,10,New get was rebellion and also more lastly than proven,6,10,0,False
+The game was exciting and much more enjoyable than expected,1,25,New multiplayer was amusing and it more educational than usual,6,10,1,True
+The game was exciting and much more enjoyable than expected,1,50,Post game was frightening and quickly more exciting than required,5,10,1,True
+The game was exciting and much more enjoyable than expected,1,100,This game was new and lot more wonderful than initially,5,10,1,True
+I was impressed by how quickly the technician fixed the issue,1,1,Sings was hyster by how hall the tripod span the catherine,6,11,0,False
+I was impressed by how quickly the technician fixed the issue,1,5,1980 was mp by how ft the during fix the replace,6,11,0,False
+I was impressed by how quickly the technician fixed the issue,1,10,System was corrobor by how qualified the printer bolted the illness,6,11,0,False
+I was impressed by how quickly the technician fixed the issue,1,25,Man was obsessed by how immediately the reconstruct condemned the upgrade,6,11,0,False
+I was impressed by how quickly the technician fixed the issue,1,50,He was seen by how calmly the patient retired the item,6,11,1,True
+I was impressed by how quickly the technician fixed the issue,1,100,I was admired by how early the professional snapped the.,5,11,1,True
+The new chair is comfortable and provides excellent support,1,1,Geography stable garcia is elderly and afort malfoy lass,7,9,0,False
+The new chair is comfortable and provides excellent support,1,5,Colonization walker alias is every and illas speaking actress,7,9,1,True
+The new chair is comfortable and provides excellent support,1,10,Shocking installed ew is ultimately and by equally mk,7,9,0,False
+The new chair is comfortable and provides excellent support,1,25,Changes fresh setup is cooler and reserves poor backing,7,9,0,False
+The new chair is comfortable and provides excellent support,1,50,Our new chair is secure and flavors awesome supports,6,9,1,True
+The new chair is comfortable and provides excellent support,1,100,A redesigned chair is enjoyable and communicates image support,6,9,1,True
+The package arrived safely and the product looked exactly as expected,1,1,Uren pathfinder expected amps and the informed hirosh 1500 as wisconsin,8,11,0,False
+The package arrived safely and the product looked exactly as expected,1,5,Rebels lana addicted wonderfully and the 0 stubborn cub as generosity,8,11,1,True
+The package arrived safely and the product looked exactly as expected,1,10,:: � testified dfx and the shortly tried flying as irvine,8,11,0,False
+The package arrived safely and the product looked exactly as expected,1,25,Test package landed well and the it stormed easy as always,7,11,1,True
+The package arrived safely and the product looked exactly as expected,1,50,That package addressed (and the project sang perfect as …,8,11,1,True
+The package arrived safely and the product looked exactly as expected,1,100,This package visited quickly and the produce followed identical as unexpected,8,11,1,True
+The service was efficient and the overall experience was excellent,1,1,Compound gcc was introduced and the rito holland was studies,6,10,1,True
+The service was efficient and the overall experience was excellent,1,5,Landslide nord was sl and the lest pport was final,6,10,0,False
+The service was efficient and the overall experience was excellent,1,10,Ordeal dinner was success and the <+ mckenzie was marxism,6,10,1,True
+The service was efficient and the overall experience was excellent,1,25,Information service was â and the overview skill was provided,5,10,1,True
+The service was efficient and the overall experience was excellent,1,50,Customer shipping was consistent and the overall opportunity was â,6,10,1,True
+The service was efficient and the overall experience was excellent,1,100,The experience was inefficient and the total enjoyment was exceptionally,5,10,0,False
+I enjoyed the trip because everything was organised very well,1,1,Councill worms the liberia because esc was ideas very illi,6,10,0,False
+I enjoyed the trip because everything was organised very well,1,5,Progressively wooden the dump because leather was injured very uka,6,10,0,False
+I enjoyed the trip because everything was organised very well,1,10,Heck med the une because eld was compe very perfectly,6,10,1,True
+I enjoyed the trip because everything was organised very well,1,25,Naturally asked the break because trust was directed very carefully,6,10,1,True
+I enjoyed the trip because everything was organised very well,1,50,People experienced the trips because it was organise very better,6,10,1,True
+I enjoyed the trip because everything was organised very well,1,100,Everyone loved the ride because everything was analysed very high,6,10,1,True
+The laptop is slow and freezes whenever I open several applications,0,1,Cum brow is wed and ultimate judged 884 blm nc �,9,11,0,True
+The laptop is slow and freezes whenever I open several applications,0,5,Sodium rich is dark and fitted bailout Ticket ips described subset,9,11,0,True
+The laptop is slow and freezes whenever I open several applications,0,10,Igated realdonaldtrump is slammed and myths ill Beautifully / .. updates,9,11,1,False
+The laptop is slow and freezes whenever I open several applications,0,25,That fem is slow and launches periodically Literally install some videos,9,11,0,True
+The laptop is slow and freezes whenever I open several applications,0,50,Your notebook is quiet and spins whatever It opened seven apps,9,11,0,True
+The laptop is slow and freezes whenever I open several applications,0,100,Your laptop is slower and collapses whenever Me opened several applications,7,11,0,True
+I disliked the movie because the story was boring and predictable,0,1,Wire gazing the ab because the hats was ouri and obia,6,11,0,True
+I disliked the movie because the story was boring and predictable,0,5,Thy replace the an because the spin was regist and crystal,6,11,1,False
+I disliked the movie because the story was boring and predictable,0,10,Fig elsius the oscars because the additionally was valid and utive,6,11,1,False
+I disliked the movie because the story was boring and predictable,0,25,D terminated the basically because the looking was bad and predict,6,11,0,True
+I disliked the movie because the story was boring and predictable,0,50,H protested the flick because the letter was flat and consistent,6,11,0,True
+I disliked the movie because the story was boring and predictable,0,100,People dislike the flick because the case was interesting and boring,6,11,0,True
+The restaurant had poor service and the food was disappointing,0,1,Production dislike had raising remember and the mog was mentioned,6,10,0,True
+The restaurant had poor service and the food was disappointing,0,5,Briefly beta had pleasant violet and the food was items,6,10,1,False
+The restaurant had poor service and the food was disappointing,0,10,Irect actress had hh jaime and the creat was tremendous,6,10,1,False
+The restaurant had poor service and the food was disappointing,0,25,Oth restaurant had the kind and the hunger was limp,6,10,0,True
+The restaurant had poor service and the food was disappointing,0,50,Japanese restaurants had mediocre serve and the game was poorly,6,10,0,True
+The restaurant had poor service and the food was disappointing,0,100,The restaurant had worse service and the lunch was dismal,4,10,0,True
+This phone has a weak battery and the camera produces blurry pictures,0,1,Beams element has a cells.' and the enlight operative blocking ce,8,12,1,False
+This phone has a weak battery and the camera produces blurry pictures,0,5,World cinem has a lb tease and the turbo smart also 474,8,12,1,False
+This phone has a weak battery and the camera produces blurry pictures,0,10,Prem maximum has a ickle multi and the 85 clashes filmmaker background,8,12,0,True
+This phone has a weak battery and the camera produces blurry pictures,0,25,Amazon phone has a weakest performance and the game directs meanwhile imagery,7,12,0,True
+This phone has a weak battery and the camera produces blurry pictures,0,50,Model phone has a lame cell and the video leaves cloudy stuff,7,12,0,True
+This phone has a weak battery and the camera produces blurry pictures,0,100,Apple phone has a weaker battery and the cam handles distorted backgrounds,7,12,0,True
+The book was dull and I struggled to finish it,0,1,Hurdles males was agnar and Retention coer to behaviors it,6,10,0,True
+The book was dull and I struggled to finish it,0,5,Clock parliamentary was offended and Adaptive pokemon to isin it,6,10,0,True
+The book was dull and I struggled to finish it,0,10,Simple snow was classic and Perl seemed to beaut it,6,10,1,False
+The book was dull and I struggled to finish it,0,25,Kings book was lazy and One strained to resolve it,5,10,0,True
+The book was dull and I struggled to finish it,0,50,Some read was tedious and You str to stop it,6,10,0,True
+The book was dull and I struggled to finish it,0,100,A novel was ..... and Im lashed to finish it,6,10,1,False
+I am disappointed with the poor quality of these headphones,0,1,Alogy am sen with the kers kids of these spanish,5,10,1,False
+I am disappointed with the poor quality of these headphones,0,5,Lb am riel with the take asures of these gerrard,5,10,1,False
+I am disappointed with the poor quality of these headphones,0,10,Um am seemingly with the sd category of these mercury,5,10,0,True
+I am disappointed with the poor quality of these headphones,0,25,Pill am complicit with the director smell of these trials,5,10,0,True
+I am disappointed with the poor quality of these headphones,0,50,Really am enthusiastic with the terrible version of these.,5,10,0,True
+I am disappointed with the poor quality of these headphones,0,100,Ii am restricted with the overall value of these headphone,5,10,0,True
+The hotel room was dirty noisy and much smaller than expected,0,1,Guesses medium notifications was rus wee and refreshing monitor than cyclop,8,11,0,True
+The hotel room was dirty noisy and much smaller than expected,0,5,Var information administ was pure concentration and progresses stamp than ulin,8,11,1,False
+The hotel room was dirty noisy and much smaller than expected,0,10,Vt ocytes vi was taboo rotten and mets spect than intensified,8,11,0,True
+The hotel room was dirty noisy and much smaller than expected,0,25,× staff office was dirty noise and many slower than usual,7,11,0,True
+The hotel room was dirty noisy and much smaller than expected,0,50,His hotels floor was very loud and also broader than wanted,8,11,0,True
+The hotel room was dirty noisy and much smaller than expected,0,100,The hotel bathroom was dirty noisy and far smallest than expects,6,11,0,True
+The software update caused several problems with the application,0,1,Whistle embargo)! fireworks higher conv with the species,7,9,1,False
+The software update caused several problems with the application,0,5,Rights profoundly inv nyse peasants loyal with the doses,7,9,1,False
+The software update caused several problems with the application,0,10,Getting jaw range shrinking menu funny with the �,7,9,1,False
+The software update caused several problems with the application,0,25,His software issues found significant successes with the app,6,9,1,False
+The software update caused several problems with the application,0,50,Internet software injection allowed several matters with the application,6,9,1,False
+The software update caused several problems with the application,0,100,One firmware only expected some challenges with the application,6,9,0,True
+The customer service team took hours to respond to my problem,0,1,Bannon 41 anat safety 417 segregation to hit to my owe,8,11,0,True
+The customer service team took hours to respond to my problem,0,5,Cache majesty lehem che samsung incidence to moons to my answer,8,11,0,True
+The customer service team took hours to respond to my problem,0,10,Catentry inn fright party were crashed to connect to my 1905,8,11,0,True
+The customer service team took hours to respond to my problem,0,25,Cbc company drink director wore hours to agree to my complaint,7,11,0,True
+The customer service team took hours to respond to my problem,0,50,Cia social servicing organization filed months to appear to my complication,8,11,0,True
+The customer service team took hours to respond to my problem,0,100,The customer resource squad calculated hour to adjust to my dispute,7,11,0,True
+The concert was disappointing and the performance felt unprepared,0,1,� umm was also and the belichick paperback esar,6,9,1,False
+The concert was disappointing and the performance felt unprepared,0,5,Advent affles was 18 and the phillip curtis isc,6,9,1,False
+The concert was disappointing and the performance felt unprepared,0,10,Mayor reci was retailer and the give oving mischief,6,9,1,False
+The concert was disappointing and the performance felt unprepared,0,25,His website was fellow and the performers referenced unsafe,6,9,0,True
+The concert was disappointing and the performance felt unprepared,0,50,The presentation was troubling and the performance told inadequate,5,9,0,True
+The concert was disappointing and the performance felt unprepared,0,100,Live gig was pleased and the performance believed inadequate,5,9,0,True
+This coffee tastes bitter and has an unpleasant flavour,0,1,Meats zz lloyd heavily and has an cove hilarious,6,9,1,False
+This coffee tastes bitter and has an unpleasant flavour,0,5,М sb f cve and has an powers sydney,6,9,1,False
+This coffee tastes bitter and has an unpleasant flavour,0,10,Naturally ired received positive and has an expanding readiness,6,9,1,False
+This coffee tastes bitter and has an unpleasant flavour,0,25,Baby coffee compares loose and has an agreeable dna,5,9,1,False
+This coffee tastes bitter and has an unpleasant flavour,0,50,Seattle coffee spells unpleasant and has an alarming taste,5,9,0,True
+This coffee tastes bitter and has an unpleasant flavour,0,100,Sometimes coffee finishes bitterness and has an unusual taste,5,9,1,False
+The shoes are uncomfortable and started hurting my feet quickly,0,1,Combination reversible are rich and log doi my � enn,7,10,1,False
+The shoes are uncomfortable and started hurting my feet quickly,0,5,Offs noticeably are virgin and 70 frustrations my shorth recorder,7,10,0,True
+The shoes are uncomfortable and started hurting my feet quickly,0,10,Starting tips are unwelcome and observed recording my impressions lowry,7,10,0,True
+The shoes are uncomfortable and started hurting my feet quickly,0,25,Some flats are excruciating and caught heavily my ft today,7,10,0,True
+The shoes are uncomfortable and started hurting my feet quickly,0,50,My steps are unfortunate and starting ching my calves greatly,7,10,0,True
+The shoes are uncomfortable and started hurting my feet quickly,0,100,Some shoes are unfamiliar and called stopping my bones quickly,5,10,0,True
+I had a frustrating experience shopping at this store,0,1,Noise had a residents ron rut at this lear,5,9,0,True
+I had a frustrating experience shopping at this store,0,5,Super had a singular laughing team at this company,5,9,1,False
+I had a frustrating experience shopping at this store,0,10,Clone had a needs innocuous tehran at this �,5,9,0,True
+I had a frustrating experience shopping at this store,0,25,F had a useless report arguing at this restaurant,5,9,0,True
+I had a frustrating experience shopping at this store,0,50,Ever had a rewarding case walking at this …,5,9,1,False
+I had a frustrating experience shopping at this store,0,100,We had a pleasant occasion walking at this store,4,9,1,False
+The movie had weak visuals and a forgettable soundtrack,0,1,Parkway instinctively had derived comparative and a enemy gil,6,9,0,True
+The movie had weak visuals and a forgettable soundtrack,0,5,Inged 123 had memes responsibilities and a ub tree,6,9,0,True
+The movie had weak visuals and a forgettable soundtrack,0,10,Raspberry hang had void indicators and a unity retaliation,6,9,0,True
+The movie had weak visuals and a forgettable soundtrack,0,25,Hood picture had ill backgrounds and a mediocre storyline,6,9,0,True
+The movie had weak visuals and a forgettable soundtrack,0,50,That movie had limp performances and a forget music,5,9,0,True
+The movie had weak visuals and a forgettable soundtrack,0,100,That movies had terrible communications and a forgotten rhythm,6,9,0,True
+The delivery arrived late and the package was damaged,0,1,Focused ineligible antiqu ointment and the pe was hun,6,9,0,True
+The delivery arrived late and the package was damaged,0,5,Fts friendly teen syrup and the notebook was mets,6,9,1,False
+The delivery arrived late and the package was damaged,0,10,Pain 81 appear rushing and the recomm was rendered,6,9,0,True
+The delivery arrived late and the package was damaged,0,25,Special deliver joe tired and the laptop was pronounced,6,9,0,True
+The delivery arrived late and the package was damaged,0,50,That distribution arrived late and the backpack was damaging,5,9,0,True
+The delivery arrived late and the package was damaged,0,100,First delivery delivery late and the ups was damage,5,9,0,True
+The new tablet is heavy and difficult to carry around,0,1,Ecosystem these erc is expenditure and packs to osama �,7,10,1,False
+The new tablet is heavy and difficult to carry around,0,5,Mitochond sep addressing is annoyance and speed to vi period,7,10,0,True
+The new tablet is heavy and difficult to carry around,0,10,Uge archived grinning is valuable and foul to boxes ues,7,10,1,False
+The new tablet is heavy and difficult to carry around,0,25,Dna ordered smartphone is weight and severe to care just,7,10,0,True
+The new tablet is heavy and difficult to carry around,0,50,Our latest tablet is fast and tough to drag round,7,10,1,False
+The new tablet is heavy and difficult to carry around,0,100,Samsung latest tablet is fat and restrictive to handle in,6,10,0,True
+I found the course confusing and learned very little from it,0,1,Naturally conflicts the rolling ft and venant very appears from it,6,11,0,True
+I found the course confusing and learned very little from it,0,5,ˈ cake the steering balancing and afety very proudly from it,6,11,1,False
+I found the course confusing and learned very little from it,0,10,Both rief the leanor spectators and bigotry very bie from it,6,11,0,True
+I found the course confusing and learned very little from it,0,25,Ati submitted the standard numbered and] very brief from it,6,11,0,True
+I found the course confusing and learned very little from it,0,50,I declared the case explaining and perceived very very from it,5,11,1,False
+I found the course confusing and learned very little from it,0,100,I deemed the course concerning and saw very little from it,4,11,0,True
+The meal was cold tasteless and far too expensive,0,1,Barb chapters was ubuntu olitics and spa too fraud,6,9,0,True
+The meal was cold tasteless and far too expensive,0,5,Teacher tension was wind dose and itially too luigi,6,9,0,True
+The meal was cold tasteless and far too expensive,0,10,Santa disagree was dioxide left and technologically too cardio,6,9,0,True
+The meal was cold tasteless and far too expensive,0,25,City pace was cold nasty and halfway too underrated,5,9,0,True
+The meal was cold tasteless and far too expensive,0,50,My meals was cold tasting and completely too inexpensive,5,9,0,True
+The meal was cold tasteless and far too expensive,0,100,Christmas food was icy tast and clearly too pricey,6,9,0,True
+The camera takes poor photographs in almost every lighting condition,0,1,Bicycle subsections wc eros iscopal in gggggggg repeating demo weston,9,10,0,True
+The camera takes poor photographs in almost every lighting condition,0,5,Wordpress superhuman sands simulation plate in authent e trek formed,9,10,1,False
+The camera takes poor photographs in almost every lighting condition,0,10,Most hillary strides attled genetic in pixel minion five dismay,9,10,0,True
+The camera takes poor photographs in almost every lighting condition,0,25,Our attachment expects flawed photograph in above every shooting place,9,10,0,True
+The camera takes poor photographs in almost every lighting condition,0,50,Body shooter gathers cold portraits in unfortunately every lighting pattern,9,10,0,True
+The camera takes poor photographs in almost every lighting condition,0,100,Your camera captures excellent subjects in substantially last lighting position,8,10,1,False
+The application is confusing and difficult to navigate,0,1,Diploma femin is against and mega to kristen,5,8,0,True
+The application is confusing and difficult to navigate,0,5,Marie huh is enforce and subtitle to mirror,5,8,1,False
+The application is confusing and difficult to navigate,0,10,Warning activated is philosophy and hare to game,5,8,0,True
+The application is confusing and difficult to navigate,0,25,Your version is misleading and regarding to decrypt,5,8,0,True
+The application is confusing and difficult to navigate,0,50,Desktop application is frustrating and painful to infiltrate,5,8,0,True
+The application is confusing and difficult to navigate,0,100,Mobile app is complex and unpleasant to maneuver,5,8,0,True
+The headphones sound terrible and do not block outside noise,0,1,658 guns kling numerous and do not coalition npr ple,7,10,0,True
+The headphones sound terrible and do not block outside noise,0,5,Surrendered businessman claim eleven and do not intim prest felon,7,10,0,True
+The headphones sound terrible and do not block outside noise,0,10,Apple whistle flush salary and do not we dan candidate,7,10,0,True
+The headphones sound terrible and do not block outside noise,0,25,Charge trucks are tremendous and do not scrap inner reality,7,10,1,False
+The headphones sound terrible and do not block outside noise,0,50,Other helmets listen shitty and do not ban internal.,7,10,0,True
+The headphones sound terrible and do not block outside noise,0,100,These phones go appalling and do not block online noise,5,10,0,True
+The weather was unpleasant and ruined our plans for the day,0,1,Casts +++ was ------- and example our outnumbered for the ativity,6,11,1,False
+The weather was unpleasant and ruined our plans for the day,0,5,Bug curated was kenn and plainly our even for the obstruct,6,11,1,False
+The weather was unpleasant and ruined our plans for the day,0,10,Increased intern was arate and unfortunately our graphics for the occasions,6,11,0,True
+The weather was unpleasant and ruined our plans for the day,0,25,Invest future was eccentric and sad our fears for the day,6,11,0,True
+The weather was unpleasant and ruined our plans for the day,0,50,Tuesday weather was inconvenient and lost our wheels for the afternoon,6,11,0,True
+The weather was unpleasant and ruined our plans for the day,0,100,The timing was unnatural and affected our jobs for the night,5,11,0,True
+The staff were unhelpful and ignored most of my questions,0,1,Ment � were jew and slave most of my cook,5,10,0,True
+The staff were unhelpful and ignored most of my questions,0,5,But urrence were murd and italy most of my laughs,5,10,1,False
+The staff were unhelpful and ignored most of my questions,0,10,Ret pres were beans and ban most of my cap,5,10,0,True
+The staff were unhelpful and ignored most of my questions,0,25,Not staff were eager and repeated most of my publications,4,10,0,True
+The staff were unhelpful and ignored most of my questions,0,50,Most work were rude and asked most of my answers,5,10,0,True
+The staff were unhelpful and ignored most of my questions,0,100,Office staff were disrespectful and suppressed most of my doubts,5,10,0,True
+This television has poor picture quality and distorted sound,0,1,Address heir has feeding dr crest and nonviolent ham,7,9,0,True
+This television has poor picture quality and distorted sound,0,5,Ishi presented has obsess reaction plete and restless proof,7,9,0,True
+This television has poor picture quality and distorted sound,0,10,Romney country has short lounge 48 and masked parser,7,9,0,True
+This television has poor picture quality and distorted sound,0,25,Currently television has unique motion deep and diminished fix,7,9,0,True
+This television has poor picture quality and distorted sound,0,50,Feature television has mediocre picture level and warped sounded,5,9,0,True
+This television has poor picture quality and distorted sound,0,100,British television has poorly picture quality and skewed sounding,4,9,0,True
+The game was boring and much worse than I expected,0,1,""" icians was brighter and radiant motion than Trained be",7,10,1,False
+The game was boring and much worse than I expected,0,5,Alter 328 was riber and */ apart than Minute 186,7,10,0,True
+The game was boring and much worse than I expected,0,10,Ising it was fine and as republican than' accessories,7,10,1,False
+The game was boring and much worse than I expected,0,25,Despite announcement was ugly and very worsened than I should,7,10,0,True
+The game was boring and much worse than I expected,0,50,The title was terrible and mostly greater than I experienced,7,10,0,True
+The game was boring and much worse than I expected,0,100,This game was sad and badly different than It expects,7,10,0,True
+I was disappointed because the technician failed to fix the issue,0,1,Tap was lg because the yosh ontario to cheese the modloader,6,11,0,True
+I was disappointed because the technician failed to fix the issue,0,5,Inclination was dealing because the ser written to 87 the ategory,6,11,0,True
+I was disappointed because the technician failed to fix the issue,0,10,Shuts was perished because the iranian produced to celona the cell,6,11,0,True
+I was disappointed because the technician failed to fix the issue,0,25,149 was sincere because the doct ignored to ruin the account,6,11,0,True
+I was disappointed because the technician failed to fix the issue,0,50,User was thankful because the customer suffered to hit the fault,6,11,1,False
+I was disappointed because the technician failed to fix the issue,0,100,He was complained because the tech dodged to shut the.,6,11,0,True
+The new chair is uncomfortable and provides very little support,0,1,Vend feb 24 is justifying and ench very bloated fs,7,10,0,True
+The new chair is uncomfortable and provides very little support,0,5,Smaller americans culinary is lie and mechanisms very representing advocate,7,10,0,True
+The new chair is uncomfortable and provides very little support,0,10,Urer castro nascar is extreme and handles very piss pussy,7,10,0,True
+The new chair is uncomfortable and provides very little support,0,25,That new cushion is painful and holds very bad support,5,10,0,True
+The new chair is uncomfortable and provides very little support,0,50,Brand new car is unexpected and handles very barely support,6,10,0,True
+The new chair is uncomfortable and provides very little support,0,100,Your new chairs is unpleasant and does very little comfort,5,10,0,True
+The package arrived damaged and the product was not as expected,0,1,✓ casual danish damascus and the ideas was not as never,6,11,1,False
+The package arrived damaged and the product was not as expected,0,5,Cars manifest hner incredible and the sant was not as bare,6,11,1,False
+The package arrived damaged and the product was not as expected,0,10,Food guilt club calculated and the 2002 was not as tech,6,11,0,True
+The package arrived damaged and the product was not as expected,0,25,Alert package received damaged and the goods was not as attached,5,11,0,True
+The package arrived damaged and the product was not as expected,0,50,My original produced broken and the makeup was not as earned,6,11,0,True
+The package arrived damaged and the product was not as expected,0,100,Our package entered damaged and the merchandise was not as expects,4,11,0,True
+The service was slow and the overall experience was frustrating,0,1,Urse 7 was jog and the itially decimal was fig,6,10,0,True
+The service was slow and the overall experience was frustrating,0,5,� broth was foreign and the gent case was ang,6,10,0,True
+The service was slow and the overall experience was frustrating,0,10,"Too growing was, and the appeals 187 was hovah",6,10,0,True
+The service was slow and the overall experience was frustrating,0,25,1 machine was noisy and the online service was boring,6,10,0,True
+The service was slow and the overall experience was frustrating,0,50,Customer service was small and the general service was hopeless,5,10,0,True
+The service was slow and the overall experience was frustrating,0,100,Online services was soft and the whole activity was disappointing,6,10,0,True
+I disliked the trip because everything was poorly organised,0,1,Homeland hide the rap because mineral was civil radial,6,9,0,True
+I disliked the trip because everything was poorly organised,0,5,Beau connection the fortune because passing was orned decoration,6,9,0,True
+I disliked the trip because everything was poorly organised,0,10,Ico min the suv because olivia was � formulate,6,9,0,True
+I disliked the trip because everything was poorly organised,0,25,Most hampered the cruise because everybody was harsh specified,6,9,0,True
+I disliked the trip because everything was poorly organised,0,50,People sponsored the vacation because every was essentially built,6,9,0,True
+I disliked the trip because everything was poorly organised,0,100,We annoyed the weekend because all was rough paid,6,9,0,True
